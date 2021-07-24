@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning python as a new skill
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Digital projects
-- 📫 How to reach me @asudo on github
+- 📫 How to reach me github.com/ausduo
 
 <!---
 Ausduo/Ausduo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
